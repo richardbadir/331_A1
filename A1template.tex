@@ -28,11 +28,34 @@ Assignment 1}
 \noindent \textbf{Problem 1}\\
 \noindent To check if the proposition is true, we need to turn over all blue cards, and all number cards that do not have a prime number. This is because we need to check if blue cards have indeed a prime number on the other side and we need to check if number cards that do not have a prime number also do not have blue on the other side. Therefore, we need to turn over the card with the number 9, because 9 is not prime, we do not need to turn over the card with the number 11, because 11 is prime, we need to turn over the blue card, because it is blue, and we do not need to turn over the yellow card, because it is not blue.
 \\
+\\
+\noindent \textbf{Problem 4}\\
+\begin{enumerate}
+\item $\mathbb{P}Languages$ is the power set of the $Languages$ set. That means that it is the set comprised of all the possible combinations of items inside $Languages$. These items are combined into sets themselves. 
+\item 
+\begin{enumerate}
+\item This expression signifies that $Favorite$ is of type $\mathbb{P}Languages$. 
+\item It should be interpreted as saying that the variable $Favorite$ can have any value in the powerset of $Languages$, and can not have any value that is not in that powerset. 
+\item All of the values in the powerset of $Languages$ are legitimate for $Favorite$. 
+\end{enumerate}
+\item 
+\begin{enumerate}
+\item This expression signifies that $Favorite$ holds the value of the powerset of $Languages$. 
+\item These 2 expressions are not semantically equivalent $Favorites = \mathbb{P}Languages$ means that the variable  $Favorite$ holds the value of the powerset of $Languages$. $Favorites:\mathbb{P}Languages$ means that the variable $Favorites$ can hold any value in the powerset of $Languages$, but not the powerset itself.
+\end{enumerate}
+\item No, $\{Lua, Groovy, C\} \notin \mathbb{P}Languages$. $\{Lua, Groovy, C\}$ is not an element of $\mathbb{P}Languages$. This is because $\{Lua, Groovy, C\}$ is an element of $Languages$, so the set of $\{Lua, Groovy, C\} $ (meaning $\{\{Lua, Groovy, C\}\} $)  would be an element of $\mathbb{P}Languages$. The set containing each element in $Languages$ is in $\mathbb{P}Languages$, but not the elements themselves.
+
+\item No, $\{\{Lua, Groovy, C\}\} \not\subset \mathbb{P}Languages$. This is because a subset is a set containing elements of a larger set. In this case $\{\{Lua, Groovy, C\}\}$ is itself an element of $\mathbb{P}Languages$. The set  $\{\{\{Lua, Groovy, C\}\}\}$ would be a subset of $\mathbb{P}Languages$.
+
+\item $\lambda_{1}$ is of type Languages, so it can hold any value in Languages. $\lambda_{2}$ is of type $\mathbb{P}Languages$, so it can hold any value in the powerset of $Languages$. $\lambda_{1}$ is atomic and $\lambda_{2}$ is non-atomic.
+\item $Library$ is of type $\mathbb{P}Languages$.
+\item No, $\{\varnothing \} \notin 
+\mathbb{P}Languages$. This is because the empty set $\varnothing$ is always part of the powerset of any set, but the set containing the empty set is not, unless the empty set is part of the original set, which is not the case in this scenario ($\varnothing \notin Languages$).
+\end{enumerate}
+
 \noindent ---------- Remove everything after and including this line after project is completed.
 \begin{enumerate}
-
-\item Here is some code in Prolog:
-
+\item Here is some code in Prolog
 \begin{verbatim}
 member(X, [X|_]).
 member(X, [_|T]) :- member(X, T).
