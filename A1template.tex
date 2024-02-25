@@ -92,6 +92,10 @@ NIL
 \item The maximal element is $\{\}$ and the minimal element is $\{a,b,c\}$.\\
 \includegraphics{P6P2Q3.png}\\
 \end{enumerate}
+
+\noindent\underline{Part 3}\\
+For any element in the domain of map, there is an element in the codomain to which it maps, therefore it is a function. $ \forall x \in domain(map), \exists y \in codomain(map), such that map(x)\mapsto y$. $map$ is a function, but it is a partial function, because it maps only a subset of $(V_{1},R)$.  $(V_{1},R)\not \mapsto (V_{2}, \subseteq)$. $map$ is not an injective function, because {a,b,c} is mapped to by more than one element in the domain. $\exists a,b(a\not {{=}}b\mapsto map(a){{=}}map(b))$. This function is surjective, because every element in the codomain of map is mapped to by at least one element from the domain. $b \in codomain(map), a \in domain(map), map(a)=b, \forall b\exists a(map(a){{=}}b)$. Since it is not injective, map is not bijective.  $\exists a,b(a\not {{=}}b\mapsto map(a){{=}}map(b))$. $map$ is not order preserving because $ AbstractMap \succ TreeMap$, but $map(AbstractMap) \not \succ\ map(TreeMap)$. $\exists x \succ y, map(x) \not \succ mapy(y)$. It is neither order reflecting, because $\varnothing \succ \{c\}$, but $TreeMap \not \succ AbstractMap$. $\exists map(x) \succ map(y), x \not \succ y$. $map$ is not order preserving nor order reflexing, so it can not be order embedding. $\exists map(x) \succ map(y), x \not \succ y$ and $\exists x \succ y, map(x) \not \succ mapy(y)$. $map$ is not order embedding, so it can not be isomorphic. $\exists map(x) \succ map(y), x \not \succ y$ and $\exists x \succ y, map(x) \not \succ mapy(y)$.
+\\
 \noindent ---------- Remove everything after and including this line after project is completed.
 \begin{enumerate}
 \item Here is some code in Prolog
