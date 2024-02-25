@@ -51,8 +51,47 @@ Assignment 1}
 \item $Library$ is of type $\mathbb{P}Languages$.
 \item No, $\{\varnothing \} \notin 
 \mathbb{P}Languages$. This is because the empty set $\varnothing$ is always part of the powerset of any set, but the set containing the empty set is not, unless the empty set is part of the original set, which is not the case in this scenario ($\varnothing \notin Languages$).
+\item
+\begin{verbatim}
+CL-USER 1 > (defun is-memberp(element set)
+(if (member element set) t nil))
+IS-MEMBERP
+
+CL-USER 2 > (is-memberp 'a '(b c d a))
+T
+
+CL-USER 3 > (is-memberp 'e '(b c d a))
+NIL
+
+CL-USER 4 > (defun equal-setsp(set1 set2)
+(and (subsetp set1 set2)
+(subsetp set2 set1)))
+EQUAL-SETSP
+
+CL-USER 5 > (equal-setsp '(b c d a) '(a b c d))
+T
+
+CL-USER 6 > (equal-setsp '(b c d a) '(b c d a 2))
+NIL
+\end{verbatim}
+\end{enumerate}
+\noindent \textbf{Problem 6}\\
+\noindent\underline{Part 1}\\
+\begin{enumerate}
+\item In java, the "is of type" relation is of partial order. If a variable is of a certain type, then it is obviously itself of that type, making this a reflexive relation. This is an antisymmetric relation, because if a variable $V_{1}$ is of a parent type to another variable $V_{2}$,   $V_{2}$ can not be a parent type of $V_{1}$. The Java API does not support cyclic inheritance. This relation is transitive, because if type A is the parent tpye of type B, and type B is the parent type of type C, then C automatically inherits from A. A type that inherits from a second type is also of the second type. Any relation that is reflexive, antisymmetric, and transitive is of partial order, therefore the "is of type" relation for the Java API is of partial order.
+\item In this relation, we can see from the set of edges that there are no bidirectional edges, and there are no cycles between edges. Therefore, the relation is antisymmetric. In this relation, the vertices and edges represent graphical units in a Hasse diagram. From this information it can be assumed that each element is reflexive on itself, and that the $xRx$ holds true for any $x$ in $V_{1}$. For example , if $R$ is simply "is a" then it can easily be deduced that $xRx$ holds true. Also from the Hasse diagram, it can be assumed that any path from vertice $x$ to vertice $z$, passing by vertice $y$, also indicates that $xRz$ holds true. Therefore this reflexive, antisymmetric, and transitive relation is of partial order and so $(V_{1},R)$ is a poset.
+\item Minimums are $HashTable, TreeMap$, and $LinkedHashMap$. Maximums are $Dictionnary$ and $Map$.\\
+\includegraphics{P6P1Q3.png}\\
+
 \end{enumerate}
 
+\noindent\underline{Part 2}\\
+\begin{enumerate}
+\item $\subseteq$ is reflexive, because any set is a subset of itself. It is antisymmetric, because if a set is a subset of another set, it the reverse can not be true, unless both sets are the same. The set that is a subset would be fully comprised of some of the elements of the other set, it is impossible that that other set is itself fully comprised of some of the elements of its own subset, unless the two sets are equivalent. This relation is transitive, because for any set B that is a subset of set A, if set C is a subset of set B, then set C is automatically a subset of set A. Therefore, because it is reflexive, antisymmetric and transitive, $\subseteq$is a relation of partial order.
+\item $\mathbb{P}V_{2}= \{\{\},\{a\},\{b\},\{c\},\{a,b\},\{a,c\},\{a,b,c\},\{b,c\}\}$. Every set is a subset of itself, so this relation is reflexive. Every set A that is a subset of another set B can not be the subset of that set B if B is not equal to A, so this relation is antisymmetric. This relation is transitive, because if a set B is a subset of a set A, and the set C is a subset of the set B, then set C is automatically a subset of A. Therefore $(\mathbb{P}V_{2}, \subseteq)$ creates a poset.
+\item The maximal element is $\{\}$ and the minimal element is $\{a,b,c\}$.\\
+\includegraphics{P6P2Q3.png}\\
+\end{enumerate}
 \noindent ---------- Remove everything after and including this line after project is completed.
 \begin{enumerate}
 \item Here is some code in Prolog
