@@ -1,0 +1,720 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.24)  26 FEB 2024 17:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**C:/Users/ricob/Desktop/331_A1/A1template.tex
+(C:/Users/ricob/Desktop/331_A1/A1template.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-13>
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/base\alltt.sty
+Package: alltt 2021/01/29 v2.0g defines alltt environment
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box51
+\extrarowheight=\dimen150
+\NC@list=\toks19
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen153
+\TX@old@table=\dimen154
+\TX@old@col=\dimen155
+\TX@target=\dimen156
+\TX@delta=\dimen157
+\TX@cols=\count199
+\TX@ftn=\toks20
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read2
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count266
+\lst@gtempboxa=\box53
+\lst@token=\toks23
+\lst@length=\count267
+\lst@currlwidth=\dimen158
+\lst@column=\count268
+\lst@pos=\count269
+\lst@lostspace=\dimen159
+\lst@width=\dimen160
+\lst@newlines=\count270
+\lst@lineno=\count271
+\lst@maxwidth=\dimen161
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count272
+\lst@skipnumbers=\count273
+\lst@framebox=\box54
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks24
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen162
+))
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count274
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count275
+\leftroot@=\count276
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count277
+\DOTSCASE@=\count278
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count279
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count280
+\dotsspace@=\muskip16
+\c@parentequation=\count281
+\dspbrk@lvl=\count282
+\tag@help=\toks26
+\row@=\count283
+\column@=\count284
+\maxfields@=\count285
+\andhelp@=\toks27
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks28
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks30
+\thm@bodyfont=\toks31
+\thm@headfont=\toks32
+\thm@notefont=\toks33
+\thm@headpunct=\toks34
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks35
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/zed-csp\zed-csp.sty
+Package: zed-csp 95/01/11 0c zed-csp package
+\c@mv@zed=\count286
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `zed'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `zed'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/bx/n on input line 86.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `zed'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 86.
+\symitalics=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 86.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 86.
+\symlasy=\mathgroup7
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 86.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `zed'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 86.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 86.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 86.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `zed'
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 308
+.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 30
+8.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 30
+8.
+LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 308
+.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 308
+.
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 308
+.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \leftarrowtail on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \rightsquigarrow on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+308.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \multimap on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \doteqdot on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \backprime on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \sqsubset on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \sqsupset on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleright on input line 308
+.
+LaTeX Font Info:    Redeclaring math symbol \vartriangleleft on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \trianglerighteq on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \trianglelefteq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 30
+8.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 3
+08.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 30
+8.
+LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Rrightarrow on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Lleftarrow on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \varpropto on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \smallsmile on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \smallfrown on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Cup on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Cap on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \Bumpeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 308.
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 308.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 308.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 308.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \circledS on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \backsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \backsimeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \circledcirc on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \circledast on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \circleddash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \precneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \succneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nmid on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nshortmid on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nshortparallel on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 308
+.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \mho on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \eth on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \eqsim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \beth on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gimel on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \daleth on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \shortmid on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \shortparallel on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \thicksim on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \thickapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \approxeq on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 308.
+
+LaTeX Font Info:    Redeclaring math symbol \digamma on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 308.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 308.
+\zedindent=\dimen171
+\zedleftsep=\dimen172
+\zedtab=\dimen173
+\zedbar=\dimen174
+\zedskip=\skip58
+\interzedlinepenalty=\count287
+\preboxpenalty=\count288
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/titlepic\titlepic.sty
+Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box57
+)
+No file A1template.aux.
+\openout1 = `A1template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen175
+\scratchbox=\box58
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen176
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count296
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 23
+.
+
+(C:\Users\ricob\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+{C:/Users/ricob/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+
+ []
+
+
+Overfull \hbox (3.32526pt too wide) in paragraph at lines 43--44
+[]\OT1/cmr/m/n/12 This ex-pres-sion sig-ni-fies that $\OT1/cmr/m/it/12 Favorite
+$ \OT1/cmr/m/n/12 holds the value of the pow-er-set of $\OT1/cmr/m/it/12 Langua
+ges$\OT1/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (10.73088pt too wide) in paragraph at lines 46--47
+[]\OT1/cmr/m/n/12 No, $\OMS/cmsy/m/n/12 f\OT1/cmr/m/it/12 Lua\OML/cmm/m/it/12 ;
+ \OT1/cmr/m/it/12 Groovy\OML/cmm/m/it/12 ; \OT1/cmr/m/it/12 C\OMS/cmsy/m/n/12 g
+ [] \U/msb/m/n/12 P\OT1/cmr/m/it/12 Languages$\OT1/cmr/m/n/12 . $\OMS/cmsy/m/n/
+12 f\OT1/cmr/m/it/12 Lua\OML/cmm/m/it/12 ; \OT1/cmr/m/it/12 Groovy\OML/cmm/m/it
+/12 ; \OT1/cmr/m/it/12 C\OMS/cmsy/m/n/12 g$ \OT1/cmr/m/n/12 is not an el-e-ment
+ of $\U/msb/m/n/12 P\OT1/cmr/m/it/12 Languages$\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (21.52992pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/12 This is be-cause $\OMS/cmsy/m/n/12 f\OT1/cmr/m/it/12 Lua\OML/cm
+m/m/it/12 ; \OT1/cmr/m/it/12 Groovy\OML/cmm/m/it/12 ; \OT1/cmr/m/it/12 C\OMS/cm
+sy/m/n/12 g$ \OT1/cmr/m/n/12 is an el-e-ment of $\OT1/cmr/m/it/12 Languages$\OT
+1/cmr/m/n/12 , so the set of $\OMS/cmsy/m/n/12 f\OT1/cmr/m/it/12 Lua\OML/cmm/m/
+it/12 ; \OT1/cmr/m/it/12 Groovy\OML/cmm/m/it/12 ; \OT1/cmr/m/it/12 C\OMS/cmsy/m
+/n/12 g$
+ []
+
+[2]
+Overfull \hbox (0.37575pt too wide) in paragraph at lines 50--51
+[]$[][]$ \OT1/cmr/m/n/12 is of type Lan-guages, so it can hold any value in Lan
+-guages. $[][]$ is of type $\U/msb/m/n/12 P\OT1/cmr/m/it/12 Languages$\OT1/cmr/
+m/n/12 ,
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+<P6P1Q3.png, id=20, 369.38pt x 365.86688pt>
+File: P6P1Q3.png Graphic file (type png)
+<use P6P1Q3.png>
+Package pdftex.def Info: P6P1Q3.png  used on input line 84.
+(pdftex.def)             Requested size: 369.37909pt x 365.86598pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+[5 <C:/Users/ricob/Desktop/331_A1/P6P1Q3.png>]
+<P6P2Q3.png, id=29, 411.03563pt x 378.41376pt>
+File: P6P2Q3.png Graphic file (type png)
+<use P6P2Q3.png>
+Package pdftex.def Info: P6P2Q3.png  used on input line 93.
+(pdftex.def)             Requested size: 411.03462pt x 378.41283pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--100
+
+ []
+
+[6 <C:/Users/ricob/Desktop/331_A1/P6P2Q3.png>]
+! TeX capacity exceeded, sorry [main memory size=5000000].
+'->\leavevmode \kern \z@ 
+                         \char `\'
+l.106 ...{=}}head(tail(\lambda]))))  then\lambda'{
+                                                  {=}}tail(\lambda)
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
+Here is how much of TeX's memory you used:
+ 5658 strings out of 474462
+ 84931 string characters out of 5742883
+ 4999999 words of memory out of 5000000
+ 27885 multiletter control sequences out of 15000+600000
+ 568814 words of font info for 80 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,9n,69p,1528b,1784s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

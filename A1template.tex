@@ -96,6 +96,75 @@ NIL
 \noindent\underline{Part 3}\\
 For any element in the domain of map, there is an element in the codomain to which it maps, therefore it is a function. $ \forall x \in domain(map), \exists y \in codomain(map), such that map(x)\mapsto y$. $map$ is a function, but it is a partial function, because it maps only a subset of $(V_{1},R)$.  $(V_{1},R)\not \mapsto (V_{2}, \subseteq)$. $map$ is not an injective function, because {a,b,c} is mapped to by more than one element in the domain. $\exists a,b(a\not {{=}}b\mapsto map(a){{=}}map(b))$. This function is surjective, because every element in the codomain of map is mapped to by at least one element from the domain. $b \in codomain(map), a \in domain(map), map(a)=b, \forall b\exists a(map(a){{=}}b)$. Since it is not injective, map is not bijective.  $\exists a,b(a\not {{=}}b\mapsto map(a){{=}}map(b))$. $map$ is not order preserving because $ AbstractMap \succ TreeMap$, but $map(AbstractMap) \not \succ\ map(TreeMap)$. $\exists x \succ y, map(x) \not \succ mapy(y)$. It is neither order reflecting, because $\varnothing \succ \{c\}$, but $TreeMap \not \succ AbstractMap$. $\exists map(x) \succ map(y), x \not \succ y$. $map$ is not order preserving nor order reflexing, so it can not be order embedding. $\exists map(x) \succ map(y), x \not \succ y$ and $\exists x \succ y, map(x) \not \succ mapy(y)$. $map$ is not order embedding, so it can not be isomorphic. $\exists map(x) \succ map(y), x \not \succ y$ and $\exists x \succ y, map(x) \not \succ mapy(y)$.
 \\
+\noindent \textbf{Problem 7}\\
+\begin{enumerate}
+\item 
+\begin{verbatim}
+
+compress(List) is
+	List2 = ⟨⟩
+	while List != ⟨⟩
+		concat(List2, ⟨head(List)⟩)
+		if (head(List) = head(tail(List))))  then 
+			x = head(List)
+			while (x = head((List))
+				List' = tail((List))
+		else	
+			List' = tail(List)
+	
+	return List2
+		
+\end{verbatim}
+\item
+\begin{verbatim}
+
+compress(List) is
+	if List =  ⟨⟩ then
+		return List
+	if (head(List) = head(tail(List)) then
+		List' = compress(tail(List))
+	else
+		List' = cons(head(List), compress(tail(List)))
+	return List
+\end{verbatim}
+\item
+
+$
+compress(⟨a, a, b, b, c, a⟩) = compress(⟨a, b, b, c, a⟩)\\
+=cons(a, compress(⟨b, b, c, a⟩))\\
+=cons(a, compress(⟨b, c, a⟩))\\
+=cons(a, cons(b, compress(⟨c, a⟩)))\\
+=cons(a, cons(b, cons(c, compress⟨a⟩)))\\
+=cons(a, cons(b, cons(c, ⟨a⟩))\\
+=cons(a, cons(b, ⟨c, a⟩))\\
+=cons(a, ⟨b,c,a⟩)\\
+=⟨a,b,c,a⟩\\
+$
+\item
+\begin{verbatim}
+CL-USER 1 > (defun compress (list)
+(if (null (rest list))
+list
+(if (equal (first list) (first (rest list)))
+(compress (rest list))
+(cons (first list) (compress (rest list))))))
+COMPRESS
+
+CL-USER 2 > (compress '(a a a b c d d e))
+(A B C D E)
+
+CL-USER 3 > (compress '())
+NIL
+
+CL-USER 4 > (compress '(a b c c c a))
+(A B C A)
+
+CL-USER 5 > (compress '(a a b b c c c c a b b))
+(A B C A B)
+
+CL-USER 6 > 
+\end{verbatim}
+\end{enumerate}
 \noindent ---------- Remove everything after and including this line after project is completed.
 \begin{enumerate}
 \item Here is some code in Prolog
